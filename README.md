@@ -1,9 +1,9 @@
 Header
 
-About me
+## About me
 
-Latest Pubs/Videos
+## Latest Pubs/Videos
 
-Languages and Tools
+## Languages and Tools
 
-Follow Me
+## Follow Me
